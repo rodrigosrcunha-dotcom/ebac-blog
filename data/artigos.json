@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "introducao-ao-nextjs",
+    "titulo": "Introdução ao Next.js com App Router",
+    "autor": "Rodrigo Dev",
+    "data": "2026-06-12",
+    "descricao": "Aprenda as bases do framework mais popular do React.",
+    "conteudo": "O App Router mudou a forma como construímos aplicações Web. Com ele, o roteamento do seu projeto é definido pela própria estrutura de pastas, tornando a criação de páginas muito mais intuitiva.\n\nAlém disso, o Next.js lida de forma brilhante com a renderização no servidor (SSR) e a geração de páginas estáticas (SSG), garantindo uma velocidade incrível para o usuário final.",
+    "imagem": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?auto=format&fit=crop&q=80&w=1000"
+  }
+]
